@@ -1,9 +1,9 @@
 [
     {
         "product_id": 1,
-        "product_title": "Apple MacBook Pro 16-inch",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
-        "category": "Laptop",
+        "product_title": "MacBook Pro 16",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3713-9997.jpg",
+        "category": "MacBook",
         "price": 2499,
         "description": "High-performance MacBook Pro with M2 chip, ideal for professional use.",
         "specification": [
@@ -19,8 +19,8 @@
     },
     {
         "product_id": 2,
-        "product_title": "Samsung Galaxy S22 Ultra",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
+        "product_title": "Galaxy S22 Ultra",
+        "product_image": "https://assets.gadgetandgear.com/upload/product/20220423_1650687277_504190.png",
         "category": "Phone",
         "price": 1199,
         "description": "Samsung’s flagship phone with high-end camera and excellent performance.",
@@ -36,9 +36,9 @@
     },
     {
         "product_id": 3,
-        "product_title": "Apple iPhone 14 Pro Max",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
-        "category": "Phone",
+        "product_title": "iPhone 14 Pro Max",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Deep-Purple-7300.jpg",
+        "category": "iPhone",
         "price": 1099,
         "description": "Apple’s latest iPhone with ProMotion display and advanced camera.",
         "specification": [
@@ -53,7 +53,7 @@
     },
     {
         "product_id": 4,
-        "product_title": "Apple Watch Series 8",
+        "product_title": "Apple Watch S8",
         "product_image": "https://gtawebsite.azurewebsites.net/media/2693/apple-watch_s8_45mm_midnight_610x610.png",
         "category": "Smartwatch",
         "price": 399,
@@ -70,8 +70,8 @@
     },
     {
         "product_id": 5,
-        "product_title": "Sony WH-1000XM4 Headphones",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
+        "product_title": "Sony WH-1000XM4",
+        "product_image": "https://s.alicdn.com/@sc04/kf/H1f028ff1aca5492a9f46428300f0c4f0i.jpg_720x720q50.jpg",
         "category": "Accessory",
         "price": 348,
         "description": "Noise-canceling headphones with superb audio quality.",
@@ -88,7 +88,7 @@
     {
         "product_id": 6,
         "product_title": "Dell XPS 13",
-        "product_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_13_9340_Core_Ultra_7/IMG_4090.JPG",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/XPS-13-9315-7034.jpg",
         "category": "Laptop",
         "price": 1399,
         "description": "Compact laptop with stunning display and solid performance.",
@@ -105,7 +105,7 @@
     {
         "product_id": 7,
         "product_title": "Xiaomi Mi Band 7",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/smart-band/xiaomi/smart-band-7/xiaomi-smart-band-7-black-01-500x500.jpg",
         "category": "Smartwatch",
         "price": 59,
         "description": "Affordable fitness tracker with large AMOLED display.",
@@ -121,7 +121,7 @@
     },
     {
         "product_id": 8,
-        "product_title": "Logitech MX Master 3S Mouse",
+        "product_title": "Logitech MX 3S",
         "product_image": "https://www.startech.com.bd/image/cache/catalog/mouse/logitech/mx-master-3s/logitech-mx-master-3s-01-500x500.jpg",
         "category": "Accessory",
         "price": 99,
@@ -137,8 +137,8 @@
     },
     {
         "product_id": 9,
-        "product_title": "Apple AirPods Pro",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
+        "product_title": "AirPods Pro",
+        "product_image": "https://assets.gadgetandgear.com/upload/product/20221006_1665048783_436617.jpeg",
         "category": "Accessory",
         "price": 249,
         "description": "Wireless earbuds with active noise cancellation and superior sound.",
@@ -154,8 +154,8 @@
     },
     {
         "product_id": 10,
-        "product_title": "Lenovo ThinkPad X1 Carbon",
-        "product_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_13_9340_Core_Ultra_7/IMG_4090.JPG",
+        "product_title": "ThinkPad X1",
+        "product_image": "https://m.media-amazon.com/images/I/61g9F8NmrDL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
         "category": "Laptop",
         "price": 1849,
         "description": "Durable and powerful laptop with excellent keyboard.",
@@ -171,8 +171,8 @@
     },
     {
         "product_id": 11,
-        "product_title": "Samsung Galaxy Watch5",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
+        "product_title": "Galaxy Watch5",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/smart-watch/samsung/galaxy-watch5-44mm/galaxy-watch5-44mm-01-500x500.webp",
         "category": "Smartwatch",
         "price": 299,
         "description": "Feature-packed smartwatch with health and fitness tracking.",
@@ -188,8 +188,8 @@
     },
     {
         "product_id": 12,
-        "product_title": "Google Pixel 7",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
+        "product_title": "Pixel 7 Pro",
+        "product_image": "https://www.mobiledokan.com/media/google-pixel-7-pro-obsidian-official-image.webp",
         "category": "Phone",
         "price": 599,
         "description": "Google’s newest smartphone with great camera and software.",
@@ -205,8 +205,8 @@
     },
     {
         "product_id": 13,
-        "product_title": "pixelsense",
-        "product_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_13_9340_Core_Ultra_7/IMG_4090.JPG",
+        "product_title": "PixelSense",
+        "product_image": "https://mspoweruser.com/wp-content/uploads/2016/10/Surface-Studio-1200x659.jpg",
         "category": "Laptop",
         "price": 1099,
         "description": "Versatile 2-in-1 device for work and creativity.",
@@ -222,8 +222,8 @@
     },
     {
         "product_id": 14,
-        "product_title": "JBL Charge 5 Bluetooth Speaker",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
+        "product_title": "JBL Charge 5",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2504-15466.jpg",
         "category": "Accessory",
         "price": 179,
         "description": "Portable speaker with great sound and waterproof design.",
@@ -239,23 +239,23 @@
     {
         "product_id": 15,
         "product_title": "Fitbit Charge 5",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Fitbit-Charge-5-Steel-Blue-7522.jpg",
         "category": "Smartwatch",
         "price": 149,
-        "description": "Fitness tracker with built-in GPS and health monitoring.",
+        "description": "Advanced fitness tracker with stress and heart health monitoring.",
         "specification": [
-            "AMOLED display",
-            "Heart Rate & ECG",
-            "7-day battery life",
-            "Sleep tracking"
+            "Stress management",
+            "ECG",
+            "Sleep tracking",
+            "Up to 7 days battery life"
         ],
         "availability": true,
-        "rating": 4.3
+        "rating": 4.5
     },
     {
         "product_id": 16,
-        "product_title": "OnePlus Nord N200 5G",
-        "product_image": "https://alflip.com/uploads/all/1689490525_Xiaomi%20Mi%20Band%207%20Pro%20waterproof%20Fitness%20Tracker02.jpg",
+        "product_title": "OnePlus N200",
+        "product_image": "https://www.classyprice.com.bd/images/Oneplus-Nord-N200.webp",
         "category": "Phone",
         "price": 239,
         "description": "Affordable 5G phone with decent performance.",
@@ -270,69 +270,69 @@
         "rating": 4.2
     },
     {
-    "product_id": 17,
-    "product_title": "Beats Studio3 Wireless Headphones",
-    "product_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_13_9340_Core_Ultra_7/IMG_4090.JPG",
-    "category": "Accessory",
-    "price": 349,
-    "description": "Wireless over-ear headphones with pure adaptive noise canceling.",
-    "specification": [
+        "product_id": 17,
+        "product_title": "Beats Studio3",
+        "product_image": "https://m.media-amazon.com/images/I/51-+O3-wFxL._AC_SX342_SY445_.jpg",
+        "category": "Accessory",
+        "price": 349,
+        "description": "Wireless over-ear headphones with pure adaptive noise canceling.",
+        "specification": [
             "Up to 22 hours battery life",
             "Noise canceling",
             "Apple W1 chip",
             "Fast fuel charging"
         ],
-    "availability": true,
-    "rating": 4.4
+        "availability": true,
+        "rating": 4.4
     },
     {
-    "product_id": 18,
-    "product_title": "Amazon Echo Show 10",
-    "product_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_13_9340_Core_Ultra_7/IMG_4090.JPG",
-    "category": "Accessory",
-    "price": 249,
-    "description": "Smart display with Alexa and a rotating screen.",
-    "specification": [
+        "product_id": 18,
+        "product_title": "Echo Show 10",
+        "product_image": "https://s.alicdn.com/@sc04/kf/H096b2ceb8d3c4af5bb53b518e0b74a57q.jpg_720x720q50.jpg",
+        "category": "Accessory",
+        "price": 249,
+        "description": "Smart display with Alexa and a rotating screen.",
+        "specification": [
             "10.1-inch HD screen",
             "Motion tracking",
             "Voice assistant",
             "Smart home control"
         ],
-    "availability": true,
-    "rating": 4.5
+        "availability": true,
+        "rating": 4.5
     },
     {
-    "product_id": 19,
-    "product_title": "Asus ROG Zephyrus G14",
-    "product_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_13_9340_Core_Ultra_7/IMG_4090.JPG",
-    "category": "Laptop",
-    "price": 1499,
-    "description": "Powerful gaming laptop with AMD Ryzen processor and sleek design.",
-    "specification": [
+        "product_id": 19,
+        "product_title": "ROG Zephyrus G14",
+        "product_image": "https://www.shopz.com.bd/wp-content/uploads/2021/09/Amazon-Echo-Show-10-3rd-Gen.jpg",
+        "category": "Laptop",
+        "price": 1499,
+        "description": "Powerful gaming laptop with AMD Ryzen processor and sleek design.",
+        "specification": [
             "14-inch QHD display",
             "AMD Ryzen 9",
             "16GB RAM",
             "1TB SSD",
             "GeForce RTX 3060"
         ],
-    "availability": true,
-    "rating": 4.7
+        "availability": true,
+        "rating": 4.7
     },
     {
-    "product_id": 20,
-    "product_title": "Huawei MateBook X Pro",
-    "product_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_13_9340_Core_Ultra_7/IMG_4090.JPG",
-    "category": "Laptop",
-    "price": 1899,
-    "description": "Ultra-slim laptop with high-resolution display and great battery life.",
-    "specification": [
+        "product_id": 20,
+        "product_title": "MateBook X Pro",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/huawei/matebook-x-pro/matebook-x-pro-01-500x500.jpg",
+        "category": "Laptop",
+        "price": 1899,
+        "description": "Ultra-slim laptop with high-resolution display and great battery life.",
+        "specification": [
             "13.9-inch 3K Display",
             "Intel Core i7",
             "16GB RAM",
             "1TB SSD",
             "13 hours battery life"
-    ],
-    "availability": true,
-    "rating": 4.5
+        ],
+        "availability": true,
+        "rating": 4.5
     }
 ]

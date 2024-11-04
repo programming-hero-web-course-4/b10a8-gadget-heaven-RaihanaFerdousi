@@ -82,7 +82,7 @@ const Header = () => {
             </div>
             <div>
                 <img
-                    className="w-[900px] rounded-2xl mb-[-400px] mt-10 h-[500px]"
+                    className="w-[900px] rounded-2xl mb-[-300px] mt-10 h-[500px]"
                     src={bannerImg}
                     alt=""
                 />
